@@ -12,8 +12,8 @@ global.blockList = []
 
 //---------[ NOMBRE/INFO ]---------
 global.pagina = "atom.bio/blogansi"
-global.botname = "✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨"
-global.wm = '✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨'
+global.botname = "✨ Cyclo-bot ✨"
+global.wm = '✨ Cyclo-𝐁𝐎𝐓 ✨'
 global.vs = '1.2'
 global.creador = '𝐸𝐿𝐼𝐴𝑆𝐴𝑅 𝑌𝑇'
 global.creador2 = 'ELIASAR YT'
@@ -24,7 +24,7 @@ global.nunber = Math.floor(Math.random() * (27 - 18 + 1)) + 18;
 
 
 //Función beta : escribe el número que quiere que sea bot para que mande el Código de 8 digitos
-global.botNumberCode = "" //Ejemplo: +59309090909
+global.botNumberCode = "+584246572510" //Ejemplo: +59309090909
 global.phoneNumber = ""
 
 //---------[ FECHA/IDIOMAS ]---------
