@@ -24,7 +24,7 @@ global.nunber = Math.floor(Math.random() * (27 - 18 + 1)) + 18;
 
 
 //Función beta : escribe el número que quiere que sea bot para que mande el Código de 8 digitos
-global.botNumberCode = "" //Ejemplo: +59309090909
+global.botNumberCode = "+584126757202" //Ejemplo: +59309090909
 global.phoneNumber = ""
 
 //---------[ FECHA/IDIOMAS ]---------
